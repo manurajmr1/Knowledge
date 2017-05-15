@@ -50,6 +50,6 @@ And install whatever u want…..apt-get update -y && apt-get install package-nam
 
 <i>reference - http://tech.osteel.me/posts/2017/01/15/how-to-use-docker-for-local-web-development-an-update.html</i>
 
-sudo docker-compose up --build (each time a new package is added)
+sudo docker-compose up --build (each time the compose file is edited)
 
 sudo docker-compose up
