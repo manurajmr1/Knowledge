@@ -59,7 +59,7 @@ func (r *Request) SendaEmail(ch chan int) (bool, error) {
 	m.SetBody("text/html", r.body)
 	// m.Attach("/home/Alex/lolcat.jpg")
 
-	d := gomail.NewDialer("smtp.gmail.com", 465, "manuraj.mr@fingent.com", "Manuraj@123")
+	d := gomail.NewDialer("smtp.gmail.com", 465, "username", "pass")
 
 	// Send the email to Bob, Cora and Dan.
 	if err := d.DialAndSend(m); err != nil {
