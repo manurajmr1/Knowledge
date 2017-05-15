@@ -1,4 +1,4 @@
-<h2>Demo for docker compose a php web application</h2>
+<h2>How to containerize a php web application with php, apache and mysql using Docker</h2>
 
 <i>Some basic knowledge
 
