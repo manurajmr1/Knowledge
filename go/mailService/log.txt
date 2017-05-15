@@ -1,0 +1,459 @@
+*--------------------------------------------*
+2017-04-04 15:48:06.766742064 +0530 IST
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials c19sm30891072pfd.85 - gsmtp
+*--------------------------------------------*
+2017-04-04 15:48:18.581454644 +0530 IST
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials i3sm30879518pfk.47 - gsmtp
+*----------------ERROR----------------------------*
+2017-04-04 15:53:06.324468648 +0530 IST
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials g5sm30915587pfe.12 - gsmtp
+*-----------------SUCCESS---------------------------*
+2017-04-04 15:53:36.053941578 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 15:54:33.153006669 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 15:54:35.803083022 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 15:54:38.642941852 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 15:58:57.30551102 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 15:58:59.920576527 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 15:59:02.633009974 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:01:50.838252355 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:01:53.324674713 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:01:55.837275393 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:02:17.469205174 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:02:21.310709034 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:02:23.824261033 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:02:59.64321324 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:03:02.13788691 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:03:04.989074199 +0530 IST
+Mail send to concurrent1@mailinator.com
+*----------------ERROR----------------------------*
+2017-04-04 16:03:48.176582182 +0530 IST
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials e7sm31059033pgp.2 - gsmtp
+*----------------ERROR----------------------------*
+2017-04-04 16:03:49.431553386 +0530 IST
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials d3sm31028708pfd.57 - gsmtp
+*----------------ERROR----------------------------*
+2017-04-04 16:03:50.76209698 +0530 IST
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials e70sm30943815pfh.84 - gsmtp
+*----------------ERROR----------------------------*
+2017-04-04 16:04:17.141971143 +0530 IST
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials x68sm2861320pfx.3 - gsmtp
+*----------------ERROR----------------------------*
+2017-04-04 16:04:18.481236776 +0530 IST
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials r12sm31065066pgn.26 - gsmtp
+*----------------ERROR----------------------------*
+2017-04-04 16:04:19.752370774 +0530 IST
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials c75sm31123899pga.22 - gsmtp
+*----------------ERROR----------------------------*
+2017-04-04 16:05:17.186158754 +0530 IST
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials t187sm30927627pfb.116 - gsmtp
+*----------------ERROR----------------------------*
+2017-04-04 16:05:18.464709866 +0530 IST
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials p19sm30993628pfl.15 - gsmtp
+*----------------ERROR----------------------------*
+2017-04-04 16:05:19.81550307 +0530 IST
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials 201sm24172491pfc.126 - gsmtp
+*----------------ERROR----------------------------*
+2017-04-04 16:05:54.095629323 +0530 IST
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials h9sm30980754pfd.103 - gsmtp
+*----------------ERROR----------------------------*
+2017-04-04 16:05:55.395814765 +0530 IST
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials c84sm31041968pfc.38 - gsmtp
+*----------------ERROR----------------------------*
+2017-04-04 16:05:56.650374071 +0530 IST
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials r82sm24267611pfl.108 - gsmtp
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:06:31.002370601 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:06:34.015623889 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:06:36.560092895 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:08:24.38495623 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:08:27.061981049 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:08:30.081327963 +0530 IST
+Mail send to concurrent1@mailinator.com
+*----------------ERROR----------------------------*
+2017-04-04 16:08:50.525316997 +0530 IST
+Mail could not be sent to angel.ej@fingent.com
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials 66sm9584224pfd.45 - gsmtp
+*----------------ERROR----------------------------*
+2017-04-04 16:08:51.871275696 +0530 IST
+Mail could not be sent to concurrent@mailinator.com
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials k2sm31093259pga.47 - gsmtp
+*----------------ERROR----------------------------*
+2017-04-04 16:08:53.15440033 +0530 IST
+Mail could not be sent to concurrent1@mailinator.com
+535 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials g27sm30985952pfk.95 - gsmtp
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:12:55.237093436 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:12:58.208967683 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:13:00.764498811 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:16:20.655865899 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:16:23.891642013 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-04 16:16:26.447260377 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-05 09:19:13.146105173 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-05 09:19:16.246509541 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-05 09:19:18.866323015 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:15:26.053251294 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:15:28.812200752 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:15:31.942000213 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:15:59.790361766 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:16:02.464788133 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:16:05.047407949 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:16:40.667239452 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:16:43.209442274 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:16:46.078049281 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:41:26.904972903 +0530 IST
+Mail send to superadm@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:42:20.454293027 +0530 IST
+Mail send to dileep@mail.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:43:18.844259988 +0530 IST
+Mail send to dileep@mail.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:43:31.026538107 +0530 IST
+Mail send to dileep@mail.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:43:44.464546103 +0530 IST
+Mail send to dileep@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:47:13.351051189 +0530 IST
+Mail send to ftsuser1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:47:33.362129001 +0530 IST
+Mail send to dileep@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:48:08.129579368 +0530 IST
+Mail send to ftsuser2@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:49:05.222154859 +0530 IST
+Mail send to dileep@mail.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:50:00.025922804 +0530 IST
+Mail send to ftsuser3@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:51:50.853516116 +0530 IST
+Mail send to ftsuser4@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 09:53:35.570174168 +0530 IST
+Mail send to ftsuser5@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 10:05:27.721892394 +0530 IST
+Mail send to chinchu1@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 10:05:48.272590595 +0530 IST
+Mail send to chinchu2@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 10:07:03.540362475 +0530 IST
+Mail send to chinchu1@fts.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 10:07:58.035687431 +0530 IST
+Mail send to chinchu2@fts.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 10:46:37.774263144 +0530 IST
+Mail send to dileep@mail.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 13:04:12.068102839 +0530 IST
+Mail send to dileep@mail.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 17:20:26.65046598 +0530 IST
+Mail send to chinchu@fts.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 17:21:08.717125174 +0530 IST
+Mail send to chinchu@fts.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 17:21:31.592290734 +0530 IST
+Mail send to superadm@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 17:22:20.171825367 +0530 IST
+Mail send to superadm@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 17:22:20.989256227 +0530 IST
+Mail send to superadm@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 17:24:04.595862931 +0530 IST
+Mail send to superadm@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-07 17:59:30.926258621 +0530 IST
+Mail send to superadm@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 10:15:09.510756426 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 10:15:12.836980627 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 10:15:15.626511753 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 10:49:14.542339646 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 10:49:38.409896878 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 10:50:17.83338377 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 10:50:29.903497134 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 10:51:42.002824386 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 10:51:54.103230512 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 11:11:31.360928777 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 11:14:16.523329756 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 11:14:32.725155631 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 11:14:56.477247645 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 11:15:15.478257782 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 11:15:37.487238971 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 11:15:47.676973717 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 11:16:01.551229763 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 11:16:11.113881449 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 11:21:23.578427421 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 11:25:29.167857728 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-10 11:27:18.16749264 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-11 10:23:47.961382854 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-11 10:23:50.837982566 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-11 10:23:53.449680995 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-11 10:25:20.742446355 +0530 IST
+Mail send to dileep@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-11 11:25:00.12844311 +0530 IST
+Mail send to ddd@per.com
+*-----------------SUCCESS---------------------------*
+2017-04-11 13:01:37.037853954 +0530 IST
+Mail send to dileep.cherat@gmail.com
+*-----------------SUCCESS---------------------------*
+2017-04-11 14:20:44.776739798 +0530 IST
+Mail send to chinchu@fgs.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 09:47:29.792556582 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 09:47:33.134543082 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 09:47:35.79483929 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 09:49:12.386771426 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 09:49:15.272747871 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 09:49:18.209127974 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 10:43:20.969311372 +0530 IST
+Mail send to dileep@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 10:43:49.421632567 +0530 IST
+Mail send to dileep@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 10:49:04.857995172 +0530 IST
+Mail send to dileep@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 10:56:26.748651859 +0530 IST
+Mail send to dileep@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 10:57:02.175671054 +0530 IST
+Mail send to dileep@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 10:57:12.072248401 +0530 IST
+Mail send to dileep@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 10:57:25.277079822 +0530 IST
+Mail send to dileep@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 11:55:59.715237467 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 11:56:02.428663107 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 11:56:04.977444381 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 11:58:44.908461174 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 11:58:47.462567081 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 11:58:49.985477847 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 12:00:02.767830971 +0530 IST
+Mail send to manuraj.mr@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 12:00:05.33098317 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 12:00:08.012956914 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 12:01:14.416112274 +0530 IST
+Mail send to manuraj.mr@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 12:01:17.106142858 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 12:01:20.072151937 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 12:04:37.289313715 +0530 IST
+Mail send to manuraj.mr@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 12:04:39.759819438 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 12:04:42.530295909 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 12:12:37.986039593 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 12:12:40.835447746 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 12:12:43.443363488 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 12:14:51.436710214 +0530 IST
+Mail send to angel.ej@fingent.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 12:14:54.123274604 +0530 IST
+Mail send to concurrent@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 12:14:56.589381496 +0530 IST
+Mail send to concurrent1@mailinator.com
+*-----------------SUCCESS---------------------------*
+2017-04-12 12:32:26.465393877 +0530 IST
+Mail send to manuraj.mr@fingent.com

@@ -1,0 +1,20 @@
+# Simple example reference: https://github.com/prometheus/alertmanager/blob/master/doc/examples/simple.yml
+global:
+    smtp_smarthost: 'smtp.gmail.com:587'
+    smtp_from: 'Alertmanager <manuraj.mr@fingent.com>'
+  #   smtp_auth:
+  # - username: 'manuraj.mr@fingent.com'
+  #   password: 'Manuraj@123'
+    smtp_auth_username: 'manuraj.mr@fingent.com'
+    smtp_auth_password: 'Manuraj@123'
+
+templates:
+- '/var/www/html/go/web/src/github.com/prometheus/alertmanager/template/*.tmpl'
+
+route:
+  receiver: 'team-X-mails'
+
+receivers:
+- name: 'team-X-mails'
+  email_configs:
+  - to: 'manuraj.mr@fingent.com'
