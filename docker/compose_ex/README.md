@@ -1,4 +1,3 @@
-# Knowledge
 <h2>Demo for docker compose a php web application</h2>
 
 <i>Some basic knowledge
@@ -9,11 +8,13 @@ Installation on debian
 
 
 http://stackoverflow.com/questions/38728693/cannot-install-docker-on-debian-jessie
+
 From package and list find latest .deb inside folder pool- https://docs.docker.com/engine/installation/linux/debian/#install-from-a-package 
 
 Learn Docker - https://www.youtube.com/watch?v=YFl2mCHdv24
 
 Docker compose - https://www.youtube.com/watch?v=Qw9zlE3t8Ko
+
 https://us14.proxysite.com/process.php?d=YHYtpqAqwitm51Q5H02AHHdLxdxzcbz4N6wCMuzxuNjbjsvZpTuFOm72Jxq3YQ1U&b=1&f=norefer
 
 DOcker Swarm - https://docs.docker.com/engine/swarm/#swarm-mode-key-concepts-and-tutorial
@@ -42,7 +43,9 @@ And install whatever u want…..apt-get update -y && apt-get install package-nam
 
 </i>
 
-For composing 
+<b>For composing & installing</b>
+
+<i>reference - http://tech.osteel.me/posts/2017/01/15/how-to-use-docker-for-local-web-development-an-update.html</i>
 
 sudo docker-compose up --build (each time a new package is added)
 
