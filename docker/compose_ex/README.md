@@ -53,3 +53,5 @@ And install whatever u want…..apt-get update -y && apt-get install package-nam
 sudo docker-compose up --build (each time the compose file is edited)
 
 sudo docker-compose up
+
+Success if it is running at http://localhost:9001/
