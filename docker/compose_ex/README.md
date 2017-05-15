@@ -7,9 +7,11 @@ DOCKER
 Installation on debian
 
 
-http://stackoverflow.com/questions/38728693/cannot-install-docker-on-debian-jessie
+http://stackoverflow.com/questions/38728693/cannot-install-docker-on-debian-jessie or
 
-From package and list find latest .deb inside folder pool- https://docs.docker.com/engine/installation/linux/debian/#install-from-a-package 
+Install from a package
+
+From packages and list find latest .deb inside folder pool- https://docs.docker.com/engine/installation/linux/debian/#install-from-a-package 
 
 Learn Docker - https://www.youtube.com/watch?v=YFl2mCHdv24
 
@@ -23,7 +25,8 @@ Dockerfile for Go - https://www.youtube.com/watch?v=-IoWzON4IRA, https://blog.go
 
 For learning - https://katacoda.com 
 
-Some basic commands - 
+
+<b>Some basic commands - </b>
 
 docker ps(list docker containers) 
 
